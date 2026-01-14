@@ -292,17 +292,15 @@ table{
     width: 100%;
     border-collapse: collapse;
     text-align: center;
-    /* padding: 20px; */
     border-color: #fff;
     color: #fff;
     margin-bottom: 80px;
 }
 th, td{
     padding: 40px 10px;
-    /* border: 1px solid #fff; */
     font-size: 14px;
 }
-/* schedule section wxba u dhiman */
+
 
 /* trainer section */
 .trainer-section{
@@ -444,6 +442,7 @@ footer p{
     font-size: 13px;
 }
 
+/* media query for tablets */
 @media(max-width:1024px){
     .desk-link{
         flex-direction: column;
